@@ -51,6 +51,8 @@ public class TrainTest {
         Train train = new Train(seats(10));
 
         //TODO implements the 70% train rule
+
+        // TODO add the SLot notion business
     }
     private Train trainOfLife() {
         return new Train(seats(42));
